@@ -1,3 +1,3 @@
-# ECDSA 파이썬 구현
+# ECDSA implementation in Python
 
-(TODO: 문서 작성)
+TODO: Write docs
